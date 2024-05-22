@@ -1,0 +1,90 @@
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    padding-left: 20%;
+    /* background-color: rgb(174, 212, 219); */
+  
+    
+  }
+  .box1{
+    display:flex;
+    flex-direction: row;
+
+  }
+  .box2{
+    display: flex;
+    flex-direction: column;
+    padding-left: 7%;
+    padding-right: 5%;
+    margin-top: 5%;
+  }
+  .box3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-right: 60%;
+
+  }
+  .box4{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+  }
+  .box5{
+    display: flex;
+    flex-direction:row;
+    justify-content: flex-end;
+    align-items: end;
+  }
+  .box6{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    padding: 0px 139px;
+
+  }
+  .box7{
+    display: flex;
+    flex-direction: column;
+
+  }
+  .box8{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+  }
+  .cart{
+    display: block;
+    height: 103px;
+    padding: 0px 3rem;
+    float: right;
+    margin: -14px 13px;
+  }
+  .add{
+    display: flex;
+    align-items: center;
+    padding: 0px 5rem;
+
+  }
+  .remove{
+    display: flex;
+    margin: 10px;
+  }
+  .cart{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    float: inline-end;
+    margin: -19rem 0rem;
+  }
+  .loading{
+    background-color: gray;
+    color:gray
+  }
