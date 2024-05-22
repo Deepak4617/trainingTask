@@ -11,6 +11,7 @@ import ProductWait from '../components/lazyLoad'
 import Product from '../components/products'
 import TeamNotes from '../components/teamNotes'
 
+
 export const AppRoutes = () => {
 
   return (
